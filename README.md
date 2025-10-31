@@ -1,4 +1,4 @@
-# book-dashboard
+# book-dashboard-TABLEAU
 Overall Description
 This is a Books and Publishing Analytics Dashboard built using Tableau, designed to provide insights into a library of books, likely sourced from a database like Goodreads. The dashboard offers a multi-faceted overview of the collection, allowing users to explore trends related to authors, publishers, languages, and book popularity.
 
