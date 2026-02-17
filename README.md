@@ -6,7 +6,7 @@ This is a Books and Publishing Analytics Dashboard built using Tableau, designed
 
 ### Detailed Analysis of Dashboard Components
 
--1 "Books by publication date" (Left Panel)<br>
+1 -  "Books by publication date" (Left Panel)<br>
 This section acts as a detailed view tooltip or filter result. When a user selects a specific data point in the main view (likely a timeline or chart not fully visible), this panel displays the details of a single, specific book.
 Book Highlighted: 1,000 Places to See Before You Die by Patricia Schultz.
 Key Details Shown:
