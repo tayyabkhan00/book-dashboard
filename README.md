@@ -1,21 +1,18 @@
 # book-dashboard-TABLEAU
-Overall Description
+
+### Overall Description
+
 This is a Books and Publishing Analytics Dashboard built using Tableau, designed to provide insights into a library of books, likely sourced from a database like Goodreads. The dashboard offers a multi-faceted overview of the collection, allowing users to explore trends related to authors, publishers, languages, and book popularity.
 
-Detailed Analysis of Dashboard Components
-1. "Books by publication date" (Left Panel)
+### Detailed Analysis of Dashboard Components
+
+- 1. "Books by publication date" (Left Panel)<br>
 This section acts as a detailed view tooltip or filter result. When a user selects a specific data point in the main view (likely a timeline or chart not fully visible), this panel displays the details of a single, specific book.
-
 Book Highlighted: 1,000 Places to See Before You Die by Patricia Schultz.
-
 Key Details Shown:
-
 Publication Date: 2003
-
 Language: English (eng)
-
 Publisher: Workman Publishing Company
-
 Ratings: It has an average rating of 2.85 (on what is likely a 5-point scale) from 36,303 ratings, which is a very high number of reviews, indicating significant public interest.
 
 2. "Authors by total books" (Top Center)
